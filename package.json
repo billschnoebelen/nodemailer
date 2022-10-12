@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "config.json": "^0.0.4",
+    "nodemailer": "^6.8.0"
+  },
+  "name": "nodemailer",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bill Schnoebelen <bill@circuitcase.com>",
+  "license": "ISC",
+  "description": ""
+}
